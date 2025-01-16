@@ -1,3 +1,4 @@
+#!/usr/bin/python3
 from threading import Thread
 import requests
 from termcolor import colored
